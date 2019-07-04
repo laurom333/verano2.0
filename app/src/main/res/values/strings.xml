@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VERANO2</string>
+    <string name="txt1">NOMBRE: </string>
+    <string name="txt2">ingresa nombre: </string>
+    <string name="txt3">APELLIDO: </string>
+    <string name="txt4">ingresa apellido</string>
+    <string name="txt5">CONTRASEÑA</string>
+    <string name="txt6">ingresa contra: </string>
+</resources>
+
+
